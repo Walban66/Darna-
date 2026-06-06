@@ -1,0 +1,8 @@
+{
+  "name": "Darna",
+  "description": "Smart family management platform for shopping lists, inventory control, meal planning, task delegation, expenses, and communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

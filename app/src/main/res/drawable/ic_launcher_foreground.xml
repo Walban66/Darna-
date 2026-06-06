@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center white house shaped inside the safe zone -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,82 L32,50 L24,50 L54,23 L84,50 L76,50 L76,82 L62,82 L62,58 L46,58 L46,82 Z" />
+    <!-- Round window showing yellow background -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M 54,37 c -2.76,0 -5,2.24 -5,5 c 0,2.76 2.24,5 5,5 c 2.76,0 5,-2.24 5,-5 c 0,-2.76 -2.24,-5 -5,-5 z" />
+</vector>
